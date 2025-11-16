@@ -27,14 +27,14 @@
 
 ## 📜 Sobre o Projeto
 
-O projeto consiste na criação de um **semáforo inteligente**, capaz de:
+&nbsp; O projeto consiste na criação de um **semáforo inteligente**, capaz de:
 
 - Detectar veículos com um sensor de luminosidade (LDR)  
 - Entrar automaticamente em modo noturno quando o ambiente estiver escuro  
 - Comunicação entre dois semáforos usando ESP32  
 - Exibir dados de luminosidade e permitir ajustes via interface online (Ubidots)
 
-O trabalho simula uma solução de **gestão urbana inteligente**, explorando automação, IoT e comunicação em rede.
+&nbsp; O trabalho simula uma solução de **gestão urbana inteligente**, explorando automação, IoT e comunicação em rede.
 
 
 ## 🎥 Demonstração
