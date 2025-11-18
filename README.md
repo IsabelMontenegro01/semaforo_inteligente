@@ -121,7 +121,7 @@
 * `estado-texto`
 
 **Semáforo funcionando:**  
-[Vídeo do semáforo funcionando](./assets/semaforo_inteligente.mp4)
+[Vídeo do semáforo funcionando](https://drive.google.com/file/d/1mdZ3EHHgWuEmoEkbkJ_LoV_OC6cWPtJC/view?usp=sharing)
 
 ## 📄 Licença
 
