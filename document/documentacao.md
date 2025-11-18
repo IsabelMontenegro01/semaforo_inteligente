@@ -58,6 +58,12 @@
 
 <div align="center">
 <sub>Figura 1 – Montagem física do protótipo</sub>  
+<img src="/assets/semaforos.jpeg" width="100%">  
+<sup>Fonte: Material produzido pelos autores (2025)</sup>
+</div>
+
+<div align="center">
+<sub>Figura 2 – Montagem física com os ESP</sub>  
 <img src="/assets/montagem_fisica.jpeg" width="100%">  
 <sup>Fonte: Material produzido pelos autores (2025)</sup>
 </div>
@@ -182,7 +188,7 @@ ldrAmbientePercent < limiarNoitePercent  // abaixo de 60%
 ## <a name="c3.4"></a>3.4. Comunicação entre os Dois Semáforos
 
 <div align="center">
-<sub>Figura 2 – Comunicação entre semáforos via Ubidots</sub>  
+<sub>Figura 3 – Comunicação entre semáforos via Ubidots</sub>  
 <img src="../assets/semaforo_ubidots.jpeg" width="100%">  
 <sup>Fonte: Material produzido pelos autores (2025)</sup>
 </div>
@@ -254,7 +260,7 @@ ldrAmbientePercent < limiarNoitePercent  // abaixo de 60%
 * Monitorar histórico das leituras
 
 <div align="center">
-<sub>Figura 3 – Comunicação entre semáforos via Ubidots</sub>  
+<sub>Figura 4 – Comunicação entre semáforos via Ubidots</sub>  
 <img src="../assets/ubidots.png" width="100%">  
 <sup>Fonte: Material produzido pelos autores (2025)</sup>
 </div>
