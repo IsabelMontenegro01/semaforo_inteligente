@@ -37,9 +37,6 @@
 &nbsp; O trabalho simula uma solução de **gestão urbana inteligente**, explorando automação, IoT e comunicação em rede.
 
 
-## 🎥 Demonstração
-
-👉 **Link do vídeo de demonstração:** *[Adicionar link aqui]*
  
 ## 📁 Estrutura de Pastas
 
@@ -120,8 +117,9 @@
 * `modo-noturno-manual`
 * `estado-texto`
 
-**Semáforo funcionando:**  
-[Vídeo do semáforo funcionando](https://drive.google.com/file/d/1mdZ3EHHgWuEmoEkbkJ_LoV_OC6cWPtJC/view?usp=sharing)
+**🎥 Semáforo funcionando:** 
+
+👉 [Vídeo do semáforo funcionando](https://drive.google.com/file/d/1mdZ3EHHgWuEmoEkbkJ_LoV_OC6cWPtJC/view?usp=sharing)
 
 ## 📄 Licença
 
