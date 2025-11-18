@@ -184,6 +184,9 @@ ldrAmbientePercent < limiarNoitePercent  // abaixo de 60%
 * Apenas o **LED amarelo pisca**
 * Ciclo: acende / apaga a cada **500 ms**
 
+[semaforo1.ino](/codigos/semaforo1.ino)
+[semaforo2.ino](/codigos/semaforo2.ino)
+
 
 ## <a name="c3.4"></a>3.4. Comunicação entre os Dois Semáforos
 
