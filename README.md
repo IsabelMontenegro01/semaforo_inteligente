@@ -75,16 +75,56 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
-- ESP32  
-- Sensor LDR 
-- LEDs (vermelho, amarelo, verde)  
-- Ubidots
-- Protoboard, resistores, jumpers
+* **ESP32**
+* **MQTT (Ubidots)**
+* **C/C++ (Arduino Framework)**
+* **Protoboard e componentes eletrônicos**
+* **Sensores LDR**
+* **LEDs RGB**
+* **Dashboard Ubidots para visualização e controle remoto**
 
 
 ## 📌 Como Executar
 
+1. Instale o **Arduino IDE** ou **PlatformIO**
+2. Instale as bibliotecas:
+
+   ```
+   WiFi.h
+   PubSubClient.h
+   ```
+3. Edite o arquivo do ESP32 e coloque:
+
+   * Nome da sua rede Wi-Fi
+   * Senha do Wi-Fi
+   * Token da sua conta Ubidots
+4. Faça o upload dos códigos:
+
+   * `/codigos/semaforo1.ino`
+   * `/codigos/semaforo2.ino`
+5. Acesse a dashboard da Ubidots para visualizar os dados.
+
+## 📊 Variáveis da Dashboard (Ubidots)
+
+### Semáforo 1
+
+* `ldr-carro-s1`
+* `carro-esperando-s1`
+* `estado-texto`
+
+### Semáforo 2
+
+* `ldr-ambiente-s2`
+* `ldr-carro-s2`
+* `carro-esperando-s2`
+* `modo-noturno-manual`
+* `estado-texto`
+
+**Semáforo funcionando:**  
+[Vídeo do semáforo funcionando](./assets/semaforo_inteligente.mp4)
 
 ## 📄 Licença
 
 Uso acadêmico – Inteli (2025).
+
+
